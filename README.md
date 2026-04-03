@@ -1,4 +1,5 @@
 📊 COVID-19 Analytics Project (SQL)
+
 🔹 Overview
 
 SQL project analyzing global COVID-19 data to track cases, deaths, and vaccinations and generate insights for reporting and dashboards.
